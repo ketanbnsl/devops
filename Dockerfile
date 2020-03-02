@@ -1,2 +1,2 @@
 from ketanbnsl/apacheubuntu
-add 1.html /var/www/html/
+add ketan.html /var/www/html/
